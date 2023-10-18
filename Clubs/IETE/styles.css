@@ -86,7 +86,7 @@ a:hover{
 .info{
     text-align: center;
     /* background-image: url(https://th.bing.com/th/id/OIP.ngnuoA52mgI3BnjyFifMHgHaHa?pid=ImgDet&rs=1); */
-    background-color: lightgray;
+    background-color: lightblue;
     /* border: 2px solid black; */
     border-radius: 50px;
     margin: 30px 30px 0 75px;
@@ -102,7 +102,7 @@ a:hover{
 }
 .details{
     /* background-image: url(https://th.bing.com/th/id/OIP.ngnuoA52mgI3BnjyFifMHgHaHa?pid=ImgDet&rs=1); */
-    background-color: lightgray;
+    background-color: lightblue;
     /* border: 2px solid black; */
     border-radius: 50px;
     margin: 30px 75px 0 30px;
@@ -119,7 +119,7 @@ a:hover{
 }
 .ne{
     text-align: center;
-    background-color: lightgray;
+    background-color: lightblue;
     /* background-image: url(htrtps://th.bing.com/th/id/OIP.ngnuoA52mgI3BnjyFifMHgHaHa?pid=ImgDet&rs=1); */
     /* border: 2px solid black; */
     border-radius: 50px;

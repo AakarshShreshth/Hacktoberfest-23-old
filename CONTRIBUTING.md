@@ -132,3 +132,26 @@ $ git push -u origin BranchName
 
 Finally, go to your repository in the browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort
+
+Do follow the following file structure for the project:
+```
+.
+├── CONTRIBUTING.md
+├── Clubs
+│   └── IETE
+│       ├── img
+│       │   └── IETE.png
+│       ├── index.html
+│       └── styles.css
+├── LICENSE
+├── README.md
+├── RULES.md
+├── assets
+│   └── img
+│       ├── Birla_Institute_of_Technology_Mesra.png
+│       ├── IETE.png
+│       ├── Pantheon_img.jpeg
+│       └── bitotsav_img.jpg
+├── index.html
+└── styles.css
+```
